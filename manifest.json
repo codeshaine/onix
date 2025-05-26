@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Onix Wallet",
+  "version": "1.0.0",
+  "description": "A Chrome extension for Crypto Wallet for Solana and Etherium",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["storage"]
+}
